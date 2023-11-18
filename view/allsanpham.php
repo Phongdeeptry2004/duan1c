@@ -67,7 +67,7 @@
                             <form action="index.php?act=allsanpham" method="POST">
                                 <div class="input-group">
                                     <input type="text" class="form-control" name='kyw' placeholder="Search by name">
-                                    <div class="input-group-append">
+                                    <div class="input-group-append"> <!--  tesst -->
                                         <button type="submit" name='submit' class="input-group-text bg-transparent text-primary">
                                             <i class="fa fa-search"></i>
                                         </button>
